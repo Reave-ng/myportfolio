@@ -22,6 +22,7 @@ import PropTypes from "prop-types";
  */
 import image from "../images/server-wall.jpg";
 const imageAltText = "woman holding laptop standing by server room with glass wall";
+
 const Home = ({ name, title }) => {
   return (
     <section id="home" className="min-height">
