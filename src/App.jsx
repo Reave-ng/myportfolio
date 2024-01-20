@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Reave Ng",
-  title: "Entreprenuer",
+  title: "Entreprenuer at heart",
   email: "sillyicecube@hotmail.com",
   gitHub: "Reave-ng",
   linkedIn: "https://www.linkedin.com/in/reave-ng/",
